@@ -303,8 +303,8 @@ MonoBehaviour:
     m_TextWithWhitespace: "Scene\u200B"
   m_Pos:
     serializedVersion: 2
-    x: 338
-    y: 79
+    x: 339
+    y: 24
     width: 1238
     height: 534
   m_SerializedDataModeController:
@@ -849,7 +849,7 @@ MonoBehaviour:
   m_Position:
     m_Target: {x: 384.29462, y: 26.36588, z: -0.21495067}
     speed: 2
-    m_Value: {x: 386.8303, y: 25.96274, z: -0.22979085}
+    m_Value: {x: 384.29462, y: 26.36588, z: -0.21495067}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -901,7 +901,7 @@ MonoBehaviour:
   m_Size:
     m_Target: 31.494146
     speed: 2
-    m_Value: 32.978165
+    m_Value: 31.494146
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -957,7 +957,7 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
-    y: 79
+    y: 24
     width: 337
     height: 534
   m_SerializedDataModeController:
@@ -974,8 +974,8 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: fafaffff
-      m_LastClickedID: -1286
+      m_SelectedIDs: 
+      m_LastClickedID: 0
       m_ExpandedIDs: 725fffffbe5fffffd26effffdc6effffe06effff4073fffffc73ffff1277ffff7c88ffff8688ffff8a88ffffce99ffff1c9afffffeaaffff7aabffff86afffffceafffff1cb0ffff6eb0ffffc6b3ffff02bbffff42c0fffffac0ffff64c9ffff40d5ffff90d5ffff6edcffffcedcffffaef5fffffafaffff8a800000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
@@ -1315,7 +1315,7 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
-    y: 639
+    y: 584
     width: 1577
     height: 355
   m_SerializedDataModeController:
@@ -1359,7 +1359,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 79}
     m_SelectedIDs: 20860000
     m_LastClickedID: 34336
-    m_ExpandedIDs: 00000000e084000000ca9a3bffffff7f
+    m_ExpandedIDs: 0000000044850000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1388,7 +1388,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000e0840000
+    m_ExpandedIDs: 0000000044850000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1591,8 +1591,8 @@ MonoBehaviour:
     m_TextWithWhitespace: "UnityEditor.Tilemaps.GridPaintPaletteWindow\u200B"
   m_Pos:
     serializedVersion: 2
-    x: 1578
-    y: 79
+    x: 1579
+    y: 24
     width: 341
     height: 915
   m_SerializedDataModeController:
